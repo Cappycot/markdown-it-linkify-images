@@ -33,7 +33,7 @@
     "rimraf": "^2.5.2",
     "snazzy": "^7.0.0",
     "standard": "^10.0.3",
-    "uglify-js": "^3.3.4"
+    "uglify-js": "^3.3.5"
   },
   "standard": {
     "globals": [
